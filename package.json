@@ -1,0 +1,48 @@
+{
+  "name": "project_poprawka",
+  "version": "1.0.0",
+  "description": "poprawki do projektu one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osza/project_poprawka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osza/project_poprawka/issues"
+  },
+  "homepage": "https://github.com/osza/project_poprawka#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "grunt-php": "^1.5.1",
+    "gulp": "^3.9.1",
+    "gulp-babili": "^0.1.4",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-useref": "^3.1.5",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "ajv": "^5.5.2",
+    "dev-ip": "^1.0.1",
+    "express": "^4.16.3",
+    "grunt": "^1.0.2",
+    "gulp-cssnano": "^2.1.3",
+    "imagemin": "^5.3.1",
+    "jquery": "^3.3.1",
+    "npm": "^6.0.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
